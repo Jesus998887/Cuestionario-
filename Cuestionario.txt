@@ -1,1 +1,12 @@
-mi trabajo aqui 
+Jesus Andres Garcia Hernandez y Christian Harrsh Alcantara 
+1 En tus palabras, Â¿QuÃ© es internet? Un lugar donde puedes investigar cualquier cosa y puedes estar en contacto con otros a traves de una red 
+2 Describe los medios fÃ­sicos y de propagaciÃ³n de ondas por los que se transmite la informaciÃ³n en internet:El medio de transmisiÃ³n constituye el soporte fÃ­sico a travÃ©s del cual emisor y receptor pueden comunicarse en un sistema de transmisiÃ³n de datos. ... Los medios guiados conducen (guÃ­an) las ondas a travÃ©s de un camino fÃ­sico, ejemplos de estos medios son el cable coaxial, la fibra Ã³ptica y el par trenzado.
+3 Â¿CÃ³mo se organiza internet? Habla de las direcciones IP y los DNS:DNS son las iniciales de Domain Name System (sistema de nombres de dominio) y es una tecnologÃ­a basada en una base de datos que sirve para resolver nombres en las redes
+4 Describe el procedimiento por el cual una canciÃ³n de Spotify llega del servidor de la compaÃ±Ã­a a tu celular.
+5 Describe los protocolos que existen en internet, en especÃ­fico HTTP y HTML:HTTP son: Toda la comunicaciÃ³n entre los clientes y servidores se realiza a partir de caracteres de 8 bits. De esta forma, se puede transmitir cualquier tipo de documento: texto, binario, etc.
+HTML, siglas en inglÃ©s de HyperText Markup Language, hace referencia al lenguaje de marcado para la elaboraciÃ³n de pÃ¡ginas web
+6 En dos pÃ¡rrafos cuÃ©ntanos lo que aprendiste sobre encriptaciÃ³n y llaves pÃºblicas.La criptografÃ­a de clave pÃºblica es un sistema criptogrÃ¡fico en el que las claves vienen en pares. La transformaciÃ³n realizada por una de las claves solo se puede deshacer con la otra clave. Una clave (la clave privada) se mantiene secreta mientras que la otra se hace pÃºblica.
+7 En dos pÃ¡rrafos cuÃ©ntanos lo que aprendiste sobre cÃ³mo protegerte de los criminales en internet.Aprendi que nunca debo de compartir informacion personal o familiar en redes sociales y que no debo conectarme a redes de internet publicas 
+8 Â¿CÃ³mo funciona la bÃºsqueda de google?Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan pÃ¡ginas nuevas o actualizadas.
+IndexaciÃ³n: Google visita las pÃ¡ginas que ha descubierto mediante el rastreo e intenta saber de quÃ© trata cada una
+DevoluciÃ³n de resultados de bÃºsqueda: cuando un usuario hace una bÃºsqueda en Google, Google intenta determinar los resultados de mayor calidad. Para determinar cuÃ¡les son los "mejores" resultados, se tienen en cuenta muchos factores, como la ubicaciÃ³n,
